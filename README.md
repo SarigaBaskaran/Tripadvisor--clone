@@ -9,6 +9,6 @@ Getting Started
 To get started with the project, follow these steps:
 
 1. Clone the Repository:
-   git clone 
+   git clone:  https://sarigabaskaran.github.io/Tripadvisor--clone/
 2.Open in Browser:
 Open the index.html file in your preferred web browser.
